@@ -1,0 +1,94 @@
+Fuzzy	Нечеткий
+three‑way decision	трехстороннее решение
+cumulative prospect theory	совокупная теория перспектив
+Abstract	Аннотация
+combination	сочетание
+securities	ценные бумаги
+portfolio	портфель активов
+Besides,	Кроме того,
+expected utility theory	теория ожидаемой полезности
+in conflict with	противоречить
+over-concentration of capital	чрезмерная концентрация капитала
+Therefore,	Вследствие этого,
+three-way decision theory	теория принятия трехсторонних решений
+case study	тематическое исследование
+market data	рыночные данные
+experimented results	экспериментальные результаты
+investment return	доходность инвестиций
+the core issue	основной вопрос
+Ref.	Источник
+asset allocation	распределение активов
+In recent years,	В последние годы
+scholar	исследователь
+however,	однако
+deficiency	недостаток
+portfolio selection	выбор портфелей активов
+to the best of our knowledge	насколько нам известно
+long-term investment	долгосрочная инвестиция
+paper	доклад
+comprehensive	всесторонний
+investor	инвестор
+act out hesitation	проявить нерешительность
+delayed decision	отложенное решение
+rough set theory	теория грубых множеств
+rough set	грубое множество
+granular computing	гранулированные вычисления
+attribute reduction	уменьшение атрибутов
+decision space	пространство решений
+disjoint	непересекающийся
+threshold	пороговое значение
+Bayesian risk	байесовский риск
+decision rule	правило принятия решений
+generate	формировать
+acceptance	принятие
+non-commitment	воздержание
+rejection	отказ
+cost-sensitive learning	обучение с учетом издержек классификации
+image recognition	распознавание изображений
+cognitive concept learning	формирование когнитивных понятий
+recommendation systems	рекомендательные системы
+medical diagnosis	медицинская диагностика
+incremental clustering	инкрементная кластеризация
+positive	положительный
+boundary	граничный
+negative	отрицательный
+three-way rules	трехсторонние правила
+buy	покупка
+deferment	отсрочка
+sell	продажа
+ambiguity	двусмысленность
+vagueness	расплывчатость
+randomness	степень случайности
+volatility	волатильность
+securities market	рынок ценных бумаг
+forecast	прогнозирование
+trend	тенденция
+securities returns	доходность ценных бумаг
+studies	исследования
+For a long time	В течение длительного времени
+under risk and uncertainty	в условиях риска и неопределенности
+fit well	согласуется
+prospect theory	теория перспектив
+Following the work	Следуя работе
+outcome	исход
+value	ценность
+probability weight function	весовая функция вероятности
+value function	функция ценности
+loss aversion	неприятие потерь
+diminishing sensitivity	уменьшающаяся чувствительность
+decision-maker	лицо, принимающее решения
+prospect value	перспективная ценность
+has been verified	был подтвержден
+risk reduction	снижение риска
+section	раздел
+loss function	функция потерь
+fuzzy set theory	теория нечетких множеств
+possibility	возможность
+self-dual	самодвойственный
+credibility	достоверность
+membership function	функция членства
+reference point	исходная точка
+Simultaneously	параллельно, одновременно
+action set	набор действий
+state	состояние
+respectively	соответственно

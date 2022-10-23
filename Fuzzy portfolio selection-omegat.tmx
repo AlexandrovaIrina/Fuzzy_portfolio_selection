@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(3)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T182832Z" creationid="ACER" creationdate="20221021T182832Z">
+        <seg>(3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;x&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T182840Z" creationid="ACER" creationdate="20221021T182840Z">
+        <seg>(&lt;t0/&gt;x&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*&lt;t0/&gt;\ Bo Wang</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132528Z" creationid="ALEX-K" creationdate="20221003T132528Z">
+        <seg>*&lt;t0/&gt;\ Бо Ван</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T182827Z" creationid="ACER" creationdate="20221021T182827Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 3</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T134233Z" creationid="ALEX-K" creationdate="20221003T134233Z">
+        <seg>1 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;\</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132657Z" creationid="ALEX-K" creationdate="20221003T132657Z">
+        <seg>1&lt;t0/&gt;\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1  Introduction</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130812Z" creationid="ALEX-K" creationdate="20221003T130812Z">
+        <seg>1  Введение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 Preliminaries</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092204Z" creationid="ALEX-K" creationdate="20221005T092204Z">
+        <seg>2 Предварительные сведения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.1  Fuzzy set theory</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092804Z" creationid="ALEX-K" creationdate="20221005T092804Z">
+        <seg>2.1  Теория нечетких множеств</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.2  Classical three&lt;t0/&gt;‑&lt;t1/&gt;way decision theory</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T200031Z" creationid="ACER" creationdate="20221021T200031Z">
+        <seg>2.2  Теория принятия трехсторонних решений&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.3  Cumulative prospect theory</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221011T183229Z" creationid="ACER" creationdate="20221011T183229Z">
+        <seg>2.3 Совокупная теория перспектив</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>295</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092207Z" creationid="ALEX-K" creationdate="20221005T092207Z">
+        <seg>295</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2&lt;t0/&gt;\</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132701Z" creationid="ALEX-K" creationdate="20221003T132701Z">
+        <seg>2&lt;t0/&gt;\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3&lt;t0/&gt;\</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132703Z" creationid="ALEX-K" creationdate="20221003T132703Z">
+        <seg>3&lt;t0/&gt;\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3WD [&lt;t0/&gt;42&lt;t1/&gt;], developed from classical rough set theory pro-posed by Pawlak, has aroused great interest in academia and industries related to decision making, rough set [&lt;t2/&gt;40&lt;t3/&gt;], granu-lar computing, attribute reduction [&lt;t4/&gt;45&lt;t5/&gt;].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T141040Z" creationid="ALEX-K" creationdate="20221003T141040Z">
+        <seg>3WD [&lt;t0/&gt;42&lt;t1/&gt;], разработанная из теории грубых множеств, предложенной Павляком, вызвала большой интерес в академических кругах и отраслях промышленности, связанных с принятием решений, грубыми множествами [&lt;t2/&gt;40&lt;t3/&gt;], гранулированными вычислениями, уменьшением атрибутов [&lt;t4/&gt;45&lt;t5/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t6/&gt;5&lt;t7/&gt;, two case studies based on real market data are performed to justify the effectiveness of the proposed methods.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T091955Z" creationid="ALEX-K" creationdate="20221005T091955Z">
+        <seg>&lt;t6/&gt;5&lt;t7/&gt; демонстрируются два тематических исследования, основанные на реальных рыночных данных, проведенные для обоснования эффективности предложенных методов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t8/&gt;6&lt;t9/&gt; is the conclusion of this paper.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092051Z" creationid="ALEX-K" creationdate="20221005T092051Z">
+        <seg>&lt;t8/&gt;6&lt;t9/&gt; представлено заключение доклада.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abstract</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130337Z" creationid="ALEX-K" creationdate="20221003T130337Z">
+        <seg>Аннотация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>According to the calculation results, the securities can be classified into the three disjoint areas of 3WD.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T091335Z" creationid="ALEX-K" creationdate="20221005T084548Z">
+        <seg>В соответствии с результатами вычислений, ценные бумаги можно классифицировать разбиением на три непересекающихся области 3WD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And Mansour [&lt;t2/&gt;26&lt;t3/&gt;] noted that securities returns contain many aspects of uncertainty, such as ambiguity and vagueness.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T144231Z" creationid="ALEX-K" creationdate="20221003T144231Z">
+        <seg>А Мансур [&lt;t2/&gt;26&lt;t3/&gt;] отметил, что доходности по ценным бумагам содержат много аспектов неопределенности, таких как двусмысленность (ambiguity) и расплывчатость (vagueness).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And for any real number</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T110901Z" creationid="ALEX-K" creationdate="20221005T110901Z">
+        <seg>И для любого действительного числа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And in recent years, 3WD has been applied in many fields, includ-ing cost-sensitive learning [&lt;t10/&gt;13&lt;t11/&gt;], image recognition [&lt;t12/&gt;20&lt;t13/&gt;], cog-nitive concept learning [&lt;t14/&gt;21&lt;t15/&gt;], recommendation systems [ &lt;t16/&gt;24&lt;t17/&gt;], medical diagnosis [&lt;t18/&gt;41&lt;t19/&gt;] and incremental clustering [&lt;t20/&gt;43&lt;t21/&gt;].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T142833Z" creationid="ALEX-K" creationdate="20221003T142833Z">
+        <seg>И в последние годы 3WD была применена во множестве сфер, включая обучение с учетом издержек классификации [&lt;t10/&gt;13&lt;t11/&gt;], распознавание изображений [&lt;t12/&gt;20&lt;t13/&gt;], формирование когнитивных понятий [&lt;t14/&gt;21&lt;t15/&gt;], рекомендательные системы [ &lt;t16/&gt;24&lt;t17/&gt;], медицинскую диагностику [&lt;t18/&gt;41&lt;t19/&gt;] и инкрементную кластеризацию [&lt;t20/&gt;43&lt;t21/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And the action set is given by &lt;t0/&gt;A&lt;t1/&gt; &lt;t2/&gt;= {&lt;t3/&gt;a&lt;t4/&gt;P&lt;t5/&gt; &lt;t6/&gt;,&lt;t7/&gt; &lt;t8/&gt;a&lt;t9/&gt;B&lt;t10/&gt; &lt;t11/&gt;,&lt;t12/&gt; &lt;t13/&gt;a&lt;t14/&gt;N</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T121254Z" creationid="ACER" creationdate="20221022T121254Z">
+        <seg>И набор действий задается как &lt;t0/&gt;A&lt;t1/&gt; &lt;t2/&gt;= {&lt;t3/&gt;a&lt;t4/&gt;P&lt;t5/&gt; &lt;t6/&gt;,&lt;t7/&gt; &lt;t8/&gt;a&lt;t9/&gt;B&lt;t10/&gt; &lt;t11/&gt;,&lt;t12/&gt; &lt;t13/&gt;a&lt;t14/&gt;N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And the decision-maker will always choose the one with the highest prospect value among all the available options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T082405Z" creationid="ALEX-K" creationdate="20221005T082405Z">
+        <seg>И лицо, принимающее решения, всегда будет останавливаться на решении с наибольшей перспективной ценностью среди всех доступных вариантов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And the gains and losses are not absolute values, but are</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T193520Z" creationid="ACER" creationdate="20221021T193345Z">
+        <seg>И прибыль, и убытки - не абсолютные значения, они</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And to the best of our knowledge, there are few studies solving the long-term portfolio selection problem considering the above deficiency.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T135347Z" creationid="ALEX-K" creationdate="20221003T134906Z">
+        <seg>И насколько нам известно, существуют отдельные исследования, решающие проблемы выбора долгосрочных портфелей активов, учитывающие вышеупомянутый недостаток.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on the Bayesian risk minimiza-tion principle, decision rules of 3WD are generated from three disjoint areas, including acceptance, non-commit-ment and rejection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T142105Z" creationid="ALEX-K" creationdate="20221003T142105Z">
+        <seg>Основываясь на принципе минимизации байесовского риска, правила принятия решений для 3WD формируются из трех непересекающихся областей, включающих принятие (acceptance), воздержание (non-commitment) и отказ (rejection).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on the above analysis, a novel fuzzy portfolio selection model based on 3WD and CPT is proposed in this paper.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T083934Z" creationid="ALEX-K" creationdate="20221005T083934Z">
+        <seg>Основываясь на вышеприведенном анализе, в этом докладе предлагается новаторская модель нечеткого выбора портфелей активов, основанная на 3WD и CPT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on the assump-tion that the investor already holds securities in a long-term investment, the portfolio selection model in this paper is developed by adopting three -way decision (3WD) theory, which is expected to provide comprehensive decision sup-port.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T140102Z" creationid="ALEX-K" creationdate="20221003T135848Z">
+        <seg>Основываясь на предположении, что уже владеет ценными бумагами в долгосрочной инвестиции, модель выбора портфелей активов в этом докладе разработана путем применения теории принятия трехсторонних решений (three-way decision theory, 3WD), что, как ожидается, обеспечит всестороннюю поддержку принятия решений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Besides, introducing 3WD into portfolio selection can also be expected to hedge against the uncertainties of securi-ties future returns.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T143853Z" creationid="ALEX-K" creationdate="20221003T143853Z">
+        <seg>Кроме того, можно ожидать, что внедрение 3WD при выборе портфелей активов также позволит застраховаться от неопределенности будущей доходности ценных бумаг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Besides, many studies are based on expected utility theory, which is in conflict with the behavior of some investors and may also lead to over-concentration of capital.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130427Z" creationid="ALEX-K" creationdate="20221003T130427Z">
+        <seg>Кроме того, многие исследования основаны на теории ожидаемой полезности, что противоречит поведению некоторых инвесторов, а также может приводить к чрезмерной концентрации капитала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By contrast, the using of 3WD, especially the consider-ation of the boundary operation can better hedge against the</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T074810Z" creationid="ALEX-K" creationdate="20221003T145322Z">
+        <seg>Использование же 3WD, особенно рассматривание граничной операции, напротив, может в определенной степени</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPT summarizes the phenomena of loss aver-sion and diminishing sensitivity.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T082051Z" creationid="ALEX-K" creationdate="20221005T082051Z">
+        <seg>CPT обобщает феномены неприятия потерь и уменьшающейся чувствительности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Different from Markowitz’s model which is based on random variables, Chen [ &lt;t0/&gt;3&lt;t1/&gt;] used fuzzy variables to denote the uncertainty of future return and risk and obtained the optimal asset allocation by fuzzy portfolio optimization.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T085340Z" creationid="ALEX-K" creationdate="20221003T132146Z">
+        <seg>В отличие от модели Марковица, которая основана на случайных переменных, Чен [ &lt;t0/&gt;3&lt;t1/&gt;] использовал нечеткие переменные для обозначения неопределенности будущей доходности и риска и получил оптимальное распределение активов с помощью нечеткой оптимизации портфелей активов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each option</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T191040Z" creationid="ACER" creationdate="20221021T191040Z">
+        <seg>Каждый вариант</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Experimental results dem-onstrate that the using of 3WD in portfolio selection guar-antees the diversity of capital allocation and achieves risk reduction; (2) CPT is used together with EUT to achieve a balance between maximizing the prospect value and expected return.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T090736Z" creationid="ALEX-K" creationdate="20221005T090445Z">
+        <seg>Экспериментальные результаты демонстрируют, что применение 3WD в выборе портфелей активов гарантирует разнообразие распределения капитала и достигает снижения риска; (2) CPT применяется совместно с EUT для достижения баланса между максимизацией перспективной ценности и ожидаемой доходности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Experimental results justify that the com-bination of CPT and EUT is effective in portfolio selection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T090833Z" creationid="ALEX-K" creationdate="20221005T090833Z">
+        <seg>Экспериментальные результаты подтверждают эффективность комбинации CPT и EUT в выборе портфелей активов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, Sect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092033Z" creationid="ALEX-K" creationdate="20221005T092009Z">
+        <seg>Наконец, в разделе </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, following the classification results, an opti-mal investment decision can be obtained by solving a given portfolio selection model.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T091344Z" creationid="ALEX-K" creationdate="20221005T084631Z">
+        <seg>Наконец, в соответствии с результатами классификации, оптимальное решение об инвестировании можно получить, решив данную модель выбора портфелей активов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First of all, it is assumed that investors already have position in some securities before the portfolio optimization.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T084132Z" creationid="ALEX-K" creationdate="20221005T084132Z">
+        <seg>Прежде всего, предполагается, что инвесторы уже имеют позицию по ценным бумагам до начала оптимизации выбора портфелей активов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Following the work of Quiggin [&lt;t6/&gt;29&lt;t7/&gt;] and Schmeidler [&lt;t8/&gt;30&lt;t9/&gt;], Tversky and Kahneman extended PT to uncertain and risky prospects with a lot of outcomes, and introduced cumulative prospect theory (CPT) [&lt;t10/&gt;33&lt;t11/&gt;].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T080351Z" creationid="ALEX-K" creationdate="20221005T080351Z">
+        <seg>Следуя работе Квиггина [&lt;t6/&gt;29&lt;t7/&gt;] и Шмейдлера [&lt;t8/&gt;30&lt;t9/&gt;], Тверски и Канеман расширили PT для случая неопределенных и рискованных перспектив со множеством исходов, и представили совокупную теорию перспектив (cumulative prospect theory, CPT) [&lt;t10/&gt;33&lt;t11/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a long time, EUT has been proved to be effec-tive in portfolio selection [&lt;t0/&gt;2&lt;t1/&gt;, &lt;t2/&gt;6&lt;t3/&gt;].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T075403Z" creationid="ALEX-K" creationdate="20221005T075403Z">
+        <seg>В течение длительного времени EUT доказала свою эффективность при выборе портфелей активов [&lt;t0/&gt;2&lt;t1/&gt;, &lt;t2/&gt;6&lt;t3/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For any real number &lt;t6/&gt;R&lt;t7/&gt; &lt;t8/&gt;∈&lt;t9/&gt; &lt;t10/&gt;ℜ&lt;t11/&gt;, the credibility of event &lt;t12/&gt;r&lt;t13/&gt; is defined by Liu and Liu [&lt;t14/&gt;23&lt;t15/&gt;] as:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T094718Z" creationid="ALEX-K" creationdate="20221005T094713Z">
+        <seg>Для любого действительного числа &lt;t6/&gt;R&lt;t7/&gt; &lt;t8/&gt;∈&lt;t9/&gt; &lt;t10/&gt;ℜ&lt;t11/&gt;, достоверность события &lt;t12/&gt;r&lt;t13/&gt; определяется Лю и Лю [&lt;t14/&gt;23&lt;t15/&gt;] как:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Furthermore, the credibility</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T110646Z" creationid="ALEX-K" creationdate="20221005T110608Z">
+        <seg>Кроме того, мера достоверности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fuzzy portfolio selection based on three&lt;t0/&gt;‑&lt;t1/&gt;way decision and cumulative prospect theory</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130551Z" creationid="ALEX-K" creationdate="20221003T130230Z">
+        <seg>Нечеткий выбор портфелей активов, основанный на теории принятия трехсторонних решений и совокупной теории перспектив</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, Kahneman and Tversky found that the decision making behavior of some investors under risk and uncertainty does not fit well with EUT, and these findings became the source of prospect theory (PT) [&lt;t4/&gt;15&lt;t5/&gt;].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T090459Z" creationid="ALEX-K" creationdate="20221005T075945Z">
+        <seg>Однако, Канеман и Тверски обнаружили, что поведение некоторых инвесторов при принятии решений в условиях риска и неопределенности не согласуется с EUT, и эти сведения легли в основу теории перспектив (prospect theory, PT) [&lt;t4/&gt;15&lt;t5/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, Tversky and Kahneman found out that inves-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T193224Z" creationid="ACER" creationdate="20221021T192712Z">
+        <seg>Однако, Тверски и Каннеман выяснили, что ожидание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it’s hard to show the chance level of a fuzzy event occurring for the possibil-ity measure is not self-dual.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T094141Z" creationid="ALEX-K" creationdate="20221005T094141Z">
+        <seg>Однако, сложно показать уровень вероятности наступления нечеткого события, поскольку мера возможности не является самодвойственной.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the online portfolio selection strategies are aimed at very-short-term investment problems, i.e., high-frequency</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T134317Z" creationid="ALEX-K" creationdate="20221003T134221Z">
+        <seg>Однако онлайн-стратегии выбора портфелей активов направлены на проблемы очень краткосрочных инвестиций, например, высокочастотной</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In CPT, it is assumed that the prospect value of a scenario is quantified by the probability weight function and the value function.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T081535Z" creationid="ALEX-K" creationdate="20221005T081535Z">
+        <seg>В CPT предполагается, что перспективная ценность сценария количественно определяется с помощью весовой функции вероятности и функции ценности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Ref.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T131319Z" creationid="ALEX-K" creationdate="20221003T131319Z">
+        <seg>В Источнике</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Sect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T091633Z" creationid="ALEX-K" creationdate="20221005T091633Z">
+        <seg>В разделе </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In classical EUT, decision-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T192057Z" creationid="ACER" creationdate="20221021T192030Z">
+        <seg>В классической EUT лица, -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to construct a dual measure in fuzzy set theory, Liu and Liu [&lt;t0/&gt;23&lt;t1/&gt;] defined the self-dual set function, i.e., credibility measure.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T094526Z" creationid="ALEX-K" creationdate="20221005T094526Z">
+        <seg>Для построения двойственной меры в теории нечетких множеств, Лю и Лю [&lt;t0/&gt;23&lt;t1/&gt;] определили самодвойственную функцию множества, т.н. меру достоверности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to describe the randomness and volatil-ity of the securities market, many scholars use random vari-ables or fuzzy variables to forecast the trend of securities returns [&lt;t4/&gt;1&lt;t5/&gt;, &lt;t6/&gt;17&lt;t7/&gt;, &lt;t8/&gt;31&lt;t9/&gt;].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T144638Z" creationid="ALEX-K" creationdate="20221003T144638Z">
+        <seg>Для того, чтобы описать степень случайности и волатильность рынка ценных бумаг, многие исследователи используют случайные или нечеткие переменные для прогнозирования  тенденции доходности ценных бумаг [&lt;t4/&gt;1&lt;t5/&gt;, &lt;t6/&gt;17&lt;t7/&gt;, &lt;t8/&gt;31&lt;t9/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to describe the volatility and non-statistical fea-ture of the securities market, fuzzy variables have been widely adopted to represent the possible securities returns in the future.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T093346Z" creationid="ALEX-K" creationdate="20221005T093346Z">
+        <seg>Для того, чтобы описать волатильность и нестатистические признаки рынка ценных бумаг, широкое применение получили нечеткие переменные для представления возможной доходности ценных бумаг в будущем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In recent years, many scholars proposed different return and risk metrics to improve and perfect fuzzy portfolio selec-tion models [&lt;t2/&gt;11&lt;t3/&gt;, &lt;t4/&gt;12&lt;t5/&gt;, &lt;t6/&gt;19&lt;t7/&gt;, &lt;t8/&gt;34&lt;t9/&gt;].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T085355Z" creationid="ALEX-K" creationdate="20221003T132813Z">
+        <seg>В последние годы многие исследователи предлагали различные метрики доходности и риска для улучшения и совершенствования моделей нечеткого выбора портфелей активов [&lt;t2/&gt;11&lt;t3/&gt;, &lt;t4/&gt;12&lt;t5/&gt;, &lt;t6/&gt;19&lt;t7/&gt;, &lt;t8/&gt;34&lt;t9/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of insufficient information, non-commitment is treated as a delayed decision, which is consistent with the human-made decision process.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T142421Z" creationid="ALEX-K" creationdate="20221003T142232Z">
+        <seg>В случае недостатка информации, воздержание рассматривается как отложенное решение,что соответствует процессу принятия решений человеком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the fuzzy context, possibility is the most frequently used measure.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T093717Z" creationid="ALEX-K" creationdate="20221005T093717Z">
+        <seg>В контексте нечеткости, наиболее часто употребляемая мера — это возможность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this model, every action in the action set to the candidate securities is assigned to a prospect value and we can construct a tri -partition of the candidate securities according to three- way decision theory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T133136Z" creationid="ALEX-K" creationdate="20221003T130644Z">
+        <seg>В этой модели каждому действию в наборе действий для ценных бумаг-кандидатов присваивается потенциальная ценность, что делает возможным построить тройное разделение ценных бумаг-кандидатов в соответствии с теорией принятия трехсторонних решений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this paper, CPT is utilized together with EUT to assess the decision-maker’s preference for each possible outcome.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T083708Z" creationid="ALEX-K" creationdate="20221005T083708Z">
+        <seg>В этом докладе CPT используется совместно с EUT для оценки предпочтений лиц, принимающих решения, касательно каждого возможного исхода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section, some preliminary knowledge of fuzzy set</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092726Z" creationid="ALEX-K" creationdate="20221005T092726Z">
+        <seg>В этом разделе будут представлены некоторые предварительные</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>International Journal of Machine Learning and Cybernetics (2022) 13:293–308</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T134243Z" creationid="ALEX-K" creationdate="20221003T134243Z">
+        <seg>International Journal of Machine Learning and Cybernetics (2022) 13:293–308</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>International Journal of Machine Learning and Cybernetics (2022) 13:293–308 https://doi.org/10.1007/s13042-021-01402-9</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T125855Z" creationid="ALEX-K" creationdate="20221003T125855Z">
+        <seg>International Journal of Machine Learning and Cybernetics (2022) 13:293–308 https://doi.org/10.1007/s13042-021-01402-9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>International Journal of Machine Learning and Cybernetics (2022) 13:293–308\</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092113Z" creationid="ALEX-K" creationdate="20221005T092113Z">
+        <seg>International Journal of Machine Learning and Cybernetics (2022) 13:293–308\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Investors will</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T194251Z" creationid="ACER" creationdate="20221021T194251Z">
+        <seg>Инвесторы будут</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keywords&lt;t0/&gt;  Fuzzy portfolio selection · Three-way decision · Cumulative prospect theory · Expected utility theory</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130809Z" creationid="ALEX-K" creationdate="20221003T130809Z">
+        <seg>Ключевые слова&lt;t0/&gt;  Нечеткий выбор портфелей активов · Трехстороннее решение · Совокупная теория перспектив · Теория ожидаемой полезности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Liu and Liu [&lt;t0/&gt;23&lt;t1/&gt;] also defined the expect value of fuzzy vari-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T110313Z" creationid="ALEX-K" creationdate="20221005T110313Z">
+        <seg>Лю и Лю [&lt;t0/&gt;23&lt;t1/&gt;] также определили ожидаемое значение нечеткой переменной</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of existing studies assumed that the investor has all the cash in hand and no securities position before portfolio optimization, which is sometimes inconsistent to reality.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130405Z" creationid="ALEX-K" creationdate="20221003T130405Z">
+        <seg>Большинство существующих исследований предполагают, что перед оптимизацией портфеля активов у инвестора на руках все его наличные, а позиция по ценным бумагам отсутствует, что подчас не соответствует действительности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No matter how advanced the forecasting techniques are, the forecasted results will always contain some subjective elements, such as the selection of probabil-ity distribution/membership function and the estimation of the related parameters like mean and variance.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T144749Z" creationid="ALEX-K" creationdate="20221003T144749Z">
+        <seg>Независимо от того, насколько продвинуты методы прогнозирования, прогнозируемые результаты всегда будут содержать некоторые субъективные элементы, такие как выбор функции распределения вероятности/принадлежности и оценка связанных параметров, таких как среднее значение и дисперсия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ORIGINAL ARTICLE</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T125905Z" creationid="ALEX-K" creationdate="20221003T125905Z">
+        <seg>ОРИГИНАЛЬНАЯ СТАТЬЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Over reliance on the forecast results may lead to excessive risk concentration.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T145018Z" creationid="ALEX-K" creationdate="20221003T145018Z">
+        <seg>Чрезмерная зависимость от результатов прогноза может привести к избыточной концентрации риска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portfolio selection theory began with Markowitz’s seminal work [&lt;t0/&gt;27&lt;t1/&gt;], the core issue of which is to maximize the return or minimize the risk.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T085316Z" creationid="ALEX-K" creationdate="20221003T131239Z">
+        <seg>Теория выбора портфелей активов началась с основополагающей работы Марковица [&lt;t0/&gt;27&lt;t1/&gt;], основным вопросом которой была максимизация доходности или минимизация риска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Received: 3 February 2021 / Accepted: 27 July 2021 / Published online: 9 August 2021</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130305Z" creationid="ALEX-K" creationdate="20221003T130305Z">
+        <seg>Получена: 3 февраля 2021 / Принята: 27 июля 2021 / Опубликована онлайн: 9 августа 2021</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>School of Finance, Zhongnan University of Economics and Law, Wuhan 430073, China</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T131749Z" creationid="ALEX-K" creationdate="20221003T131749Z">
+        <seg>Школа финансов, Чжуннаньский университет экономики и права, Ухань 430073, Китай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>School of Information, Production and Systems, Waseda University, Fukuoka 808&lt;t0/&gt;‑&lt;t1/&gt;0135, Japan</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T131841Z" creationid="ALEX-K" creationdate="20221003T131841Z">
+        <seg>Школа информации, производства и систем, Университет Васэда, Фукуока 808&lt;t0/&gt;‑&lt;t1/&gt;0135, Япония</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>School of Management and Engineering, Nanjing University, Nanjing 210093, China</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T131619Z" creationid="ALEX-K" creationdate="20221003T131619Z">
+        <seg>Школа менеджмента и инжиниринга, Наньцзинский университет, Наньцзин 210093, Китай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sec-tion &lt;t0/&gt;2&lt;t1/&gt; contains the preliminary knowledge which will be used in this paper.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092156Z" creationid="ALEX-K" creationdate="20221005T091237Z">
+        <seg>Раздел &lt;t0/&gt;2&lt;t1/&gt; описывает предварительные сведения, используемые в этом докладе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section &lt;t2/&gt;3&lt;t3/&gt; defines the security classifica-tion rules based on 3WD and CPT.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T091414Z" creationid="ALEX-K" creationdate="20221005T091310Z">
+        <seg>Раздел &lt;t2/&gt;3&lt;t3/&gt; определяет правила классификации ценных бумаг, основываясь на 3WD и CPT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section &lt;t4/&gt;4&lt;t5/&gt; builds four portfolio selection models and introduces the solution algo-rithm.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T091542Z" creationid="ALEX-K" creationdate="20221005T091542Z">
+        <seg>Раздел &lt;t4/&gt;4&lt;t5/&gt; демонстрирует создание четырех моделей выбора портфелей активов и представляет алгоритм решения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simultaneously, they found that the prob-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T195735Z" creationid="ACER" creationdate="20221021T195029Z">
+        <seg>Параллельно, они выяснили, что вероятности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the investor may act out hesitation for insufficient information in capital market, at this time a delayed decision inspired by 3WD might be a better option than the decision made in a hurry.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T140425Z" creationid="ALEX-K" creationdate="20221003T140052Z">
+        <seg>Поскольку инвестор может проявить нерешительность ввиду недостатка информации на рынке капитала, на этот раз отложенное решение, вдохновленное 3WD, может быть лучшим вариантом, чем решение, принятое в спешке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So it can be seen that the procedures of 3WD match with portfolio selection inherently.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T143634Z" creationid="ALEX-K" creationdate="20221003T143634Z">
+        <seg>Таким образом, можно видеть, что процедуры 3WD по своей сути совпадают с выбором портфелей активов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suppose that &lt;t0/&gt;ξ&lt;t1/&gt; is a fuzzy variable with membership function &lt;t2/&gt;(&lt;t3/&gt;x&lt;t4/&gt;)&lt;t5/&gt; .</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T094637Z" creationid="ALEX-K" creationdate="20221005T094637Z">
+        <seg>Предположим, что &lt;t0/&gt;ξ&lt;t1/&gt; является нечеткой переменной с функцией членства&lt;t2/&gt;(&lt;t3/&gt;x&lt;t4/&gt;)&lt;t5/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suppose the state set is given by &lt;t2/&gt;U&lt;t3/&gt; &lt;t4/&gt;= {&lt;t5/&gt;  &lt;t6/&gt;,&lt;t7/&gt;    &lt;t8/&gt;C&lt;t9/&gt;}&lt;t10/&gt;,</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T120450Z" creationid="ACER" creationdate="20221022T120450Z">
+        <seg>Предположим набор состояний задается как &lt;t2/&gt;U&lt;t3/&gt; &lt;t4/&gt;= {&lt;t5/&gt;  &lt;t6/&gt;,&lt;t7/&gt;    &lt;t8/&gt;C&lt;t9/&gt;}&lt;t10/&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suppose there are &lt;t4/&gt;M</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T190248Z" creationid="ACER" creationdate="20221021T190248Z">
+        <seg>Предположим, есть M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table &lt;t0/&gt;1&lt;t1/&gt;, where  &lt;t2/&gt;PP&lt;t3/&gt; ,  &lt;t4/&gt;BP&lt;t5/&gt; ,  &lt;t6/&gt;NP&lt;t7/&gt; represent the correspond-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T123310Z" creationid="ACER" creationdate="20221022T122628Z">
+        <seg>где  &lt;t2/&gt;PP&lt;t3/&gt; ,  &lt;t4/&gt;BP&lt;t5/&gt; ,  &lt;t6/&gt;NP&lt;t7/&gt; представляют собой </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 1  &lt;t0/&gt;The loss function</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092327Z" creationid="ALEX-K" creationdate="20221005T092327Z">
+        <seg>Таблица 1  &lt;t0/&gt;Матрица функции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T191800Z" creationid="ACER" creationdate="20221021T191800Z">
+        <seg>Вероятность </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The basic concepts and rules of 3WD were introduced by</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T120136Z" creationid="ACER" creationdate="20221022T120136Z">
+        <seg>Основные понятия и правила 3WD представил</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The credibility measurement is a self-dual function, i.e.,</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T110546Z" creationid="ALEX-K" creationdate="20221005T110546Z">
+        <seg>Мера достоверности — самодвойственная функция, т.е.,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effectiveness of CPT in characterizing investors’ behavior has been verified by large amounts of experiments.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T082706Z" creationid="ALEX-K" creationdate="20221005T082706Z">
+        <seg>Эффективность CPT при характеризации поведения инвесторов было подтверждено большим количеством экспериментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The experimented results prove that the using of three-way decision and cumulative prospect theory increases the investment return, meanwhile, reduces the risk for the investor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130719Z" creationid="ALEX-K" creationdate="20221003T130719Z">
+        <seg>Экспериментальные результаты подтвердили, что применение теории принятия трехсторонних решений и совокупной теории перспектив повышает доходность инвестиций и, в то же время, снижает риск для инвестора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first deficiency is that their models assume that the investor has all the cash in hand and no securities position before the portfolio optimization.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T133409Z" creationid="ALEX-K" creationdate="20221003T133409Z">
+        <seg>Первый недостаток заключается в том, что их модели предполагают, что перед оптимизацией портфеля активов у инвестора на руках все его наличные, а позиция по ценным бумагам отсутствует.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The goal of fuzzy portfolio selection is to make a combination of securities which can maximize the return or minimize the risk.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T085310Z" creationid="ALEX-K" creationdate="20221003T130357Z">
+        <seg>Цель нечеткого выбора портфеля активов — создать сочетание ценных бумаг, которое может максимизировать доходность или минимизировать риск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The loss functions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T123025Z" creationid="ACER" creationdate="20221022T121900Z">
+        <seg>Функции потерь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main concept of 3WD is to divide the decision space into three disjoint areas (positive, boundary and negative areas) by means of two thresholds, &lt;t6/&gt;α&lt;t7/&gt; and &lt;t8/&gt;β&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T143037Z" creationid="ALEX-K" creationdate="20221003T141522Z">
+        <seg>Основной концепт 3WD заключается в разделении пространства решений на три непересекающихся области (положительная (positive), граничная (boundary) и отрицательная (negative) области) с помощью двух пороговых значений, &lt;t6/&gt;α&lt;t7/&gt; и &lt;t8/&gt;β&lt;t9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The major contributions of this paper include the follow-ing: (1) 3WD is considered to handle the inaccurate forecast results of securities returns and the long-term investment problems with securities in hand.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T085653Z" creationid="ALEX-K" creationdate="20221005T085237Z">
+        <seg>Основной вклад данного доклада включает следующее: (1) 3WD рассматривается как способ справляться с неточными результатами прогнозирования доходности инвестиций и проблемами долгосрочных инвестиций с ценными бумагами на руках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The progresses of artificial intelligence have greatly improved the practical value of online portfolio selection strategies.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T134010Z" creationid="ALEX-K" creationdate="20221003T134010Z">
+        <seg>Развитие искусственного интеллекта значительно повысило практическую ценность онлайн-стратегий выбора портфелей активов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The remainder of this paper is organized as follows.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T090857Z" creationid="ALEX-K" creationdate="20221005T090857Z">
+        <seg>Остальная часть этого доклада организована следующим образом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second deficiency in most existing studies is that they are completely based on expected utility theory (EUT) .</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T075159Z" creationid="ALEX-K" creationdate="20221005T075159Z">
+        <seg>Второй недостаток большинства существующих исследований в том, что они полностью основаны на теории ожидаемой полезности (expected utility theory, EUT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The three-way rules generated by the positive, boundary and negative regions can correspond with the decisions of buy, deferment and sell in portfolio selection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T143306Z" creationid="ALEX-K" creationdate="20221003T142940Z">
+        <seg>Трехсторонние правила, сформированные положительной, граничной и отрицательной областями, могут соответствовать решениям о покупке (buy), отсрочке (deferment) и продаже (sell) в выборе портфелей активов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The unavoid-able fact is that these forecasts cannot be always correct and accurate [&lt;t10/&gt;11&lt;t11/&gt; ].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T144835Z" creationid="ALEX-K" creationdate="20221003T144835Z">
+        <seg>Неизбежным фактом является то, что эти прогнозы не всегда могут быть корректными и точными [&lt;t10/&gt;11&lt;t11/&gt; ].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then the prospect value of the securities for each possible outcome is calculated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T084439Z" creationid="ALEX-K" creationdate="20221005T084439Z">
+        <seg>Затем рассчитывается перспективная ценность ценных бумаг для каждого возможного исхода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, a series of portfolio selection strategies have been proposed to alleviate this deficiency, most of which are online strategies, including following the winner, following the loser, meta-learning, pattern matching, and etc. [&lt;t0/&gt;18&lt;t1/&gt;].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T133859Z" creationid="ALEX-K" creationdate="20221003T133859Z">
+        <seg>Вследствие этого, ряд стратегий выбора портфелей активов предлагает устранить этот недостаток. Причем большинство из них является онлайн-стратегиями, включая следование за победителем, следование за проигравшим, метаобучение, сопоставление с образцом и т.д. [&lt;t0/&gt;18&lt;t1/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, in this paper, we propose a fuzzy portfolio selection model based on three-way decision and cumulative prospect theory, which can mitigate the two shortcomings mentioned above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130600Z" creationid="ALEX-K" creationdate="20221003T130530Z">
+        <seg>Вследствие этого, в данном докладе, мы предлагаем модель нечеткого выбора портфеля активов, основанную на теории принятия трехсторонних решений и совокупной теории перспектив, что может смягчить два вышеупомянутых недочета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, it could be meaningful to build a 3WD-based portfolio selection model.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T074935Z" creationid="ALEX-K" creationdate="20221005T074935Z">
+        <seg>Вследствие этого, может иметь смысл в создании модели выбора портфелей активов на основе 3WD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, many scholars have used CPT to reveal the risk preference of decision-makers [&lt;t12/&gt;8&lt;t13/&gt;, &lt;t14/&gt;16&lt;t15/&gt;, &lt;t16/&gt;39&lt;t17/&gt;].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T083355Z" creationid="ALEX-K" creationdate="20221005T083355Z">
+        <seg>Вследствие этого, многие исследователи применяли CPT для выявления предпочтений лиц, принимающих решения, касательно риска [&lt;t12/&gt;8&lt;t13/&gt;, &lt;t14/&gt;16&lt;t15/&gt;, &lt;t16/&gt;39&lt;t17/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This assumption may sometimes contradict reality, which hinders the practical application of portfolio selection models to a certain extent.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T133609Z" creationid="ALEX-K" creationdate="20221003T133609Z">
+        <seg>Это предположение подчас противоречит действительности, что в определенной степени препятствует практическому применению моделей выбора портфелей активов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To provide a rational explanation of why financial deci-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T183534Z" creationid="ACER" creationdate="20221021T183314Z">
+        <seg>Чтобы предоставлять рациональное объяснение, почему инвесторы делают--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To validate the effectiveness of our approach, we adopted two case studies on the basis of real market data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130649Z" creationid="ALEX-K" creationdate="20221003T130649Z">
+        <seg>Для подтверждения эффективности нашего подхода, мы применили его к двум тематическим исследованиям на основе реальных рыночных данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What’s more, most of exist-ing methods involve only the buying and selling of securi-ties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T145108Z" creationid="ALEX-K" creationdate="20221003T145108Z">
+        <seg>Более того, большинство существующих методов включают только покупку и продажу ценных бумаг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Works of these scholars greatly enrich the theoretical and applied value of portfolio selec-tion, however, most existing studies still suffer from two deficiencies.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T133310Z" creationid="ALEX-K" creationdate="20221003T133127Z">
+        <seg>Работы этих исследователей значительно улучшили теоретическую и прикладную ценность выбора портфелей активов, однако большинство существующих исследований все еще подвержены двум недостаткам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Xianhe Wang&lt;t0/&gt;1&lt;t1/&gt; · Bo Wang&lt;t2/&gt;1&lt;t3/&gt; · Shu Liu&lt;t4/&gt;2&lt;t5/&gt; · Huaxiong Li&lt;t6/&gt;1&lt;t7/&gt; · Tianxing Wang&lt;t8/&gt;1&lt;t9/&gt; · Junzo Watada&lt;t10/&gt;3</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132519Z" creationid="ALEX-K" creationdate="20221003T132519Z">
+        <seg>Сян Ван&lt;t0/&gt;1&lt;t1/&gt; · Бо Ван&lt;t2/&gt;1&lt;t3/&gt; · Шу Лю&lt;t4/&gt;2&lt;t5/&gt; · Хуасюн Ли&lt;t6/&gt;1&lt;t7/&gt; · Тяньсин Ван&lt;t8/&gt;1&lt;t9/&gt; · Дзюнзо Ватада&lt;t10/&gt;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yao [&lt;t0/&gt;42&lt;t1/&gt;].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T120212Z" creationid="ACER" creationdate="20221022T120212Z">
+        <seg>Яо [&lt;t0/&gt;42&lt;t1/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhang [&lt;t0/&gt;44&lt;t1/&gt;] proposed the fuzzy-entropy-based game theoretic shadowed sets, a three- way approxi-mation of fuzzy sets, to find a balance method for two kinds uncertainties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T144118Z" creationid="ALEX-K" creationdate="20221003T144118Z">
+        <seg>Чжан [&lt;t0/&gt;44&lt;t1/&gt;] предложил теоретико-игровые затененные множества, основанные на нечеткой энтропии, трехстороннюю аппроксимацию нечетких множеств, чтобы найти метод баланса для двух видов неопределенностей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T182852Z" creationid="ACER" creationdate="20221021T182852Z">
+        <seg>[</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[  (&lt;t0/&gt;x&lt;t1/&gt;)]  = {&lt;t2/&gt;x</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T182804Z" creationid="ACER" creationdate="20221021T182804Z">
+        <seg>[  (&lt;t0/&gt;x&lt;t1/&gt;)]  = {&lt;t2/&gt;x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[&lt;t2/&gt;27&lt;t3/&gt;], Markowitz used the mean</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T144808Z" creationid="ALEX-K" creationdate="20221003T131423Z">
+        <seg>[&lt;t2/&gt;27&lt;t3/&gt;] Марковиц использовал среднее значение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\   Huaxiong Li</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132600Z" creationid="ALEX-K" creationdate="20221003T132600Z">
+        <seg>\   Хуасюн Ли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\   Junzo Watada</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132620Z" creationid="ALEX-K" creationdate="20221003T132620Z">
+        <seg>\   Дзюнзо Ватада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\   Shu Liu</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132545Z" creationid="ALEX-K" creationdate="20221003T132545Z">
+        <seg>\   Шу Лю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\   Tianxing Wang</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132611Z" creationid="ALEX-K" creationdate="20221003T132611Z">
+        <seg>\   Тяньсин Ван</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\   Xianhe Wang</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132534Z" creationid="ALEX-K" creationdate="20221003T132534Z">
+        <seg>\   Сян Ван</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\   bowangsme@nju.edu.cn</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132633Z" creationid="ALEX-K" creationdate="20221003T132633Z">
+        <seg>\   bowangsme@nju.edu.cn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\   huaxiongli@nju.edu.cn</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132646Z" creationid="ALEX-K" creationdate="20221003T132646Z">
+        <seg>\   huaxiongli@nju.edu.cn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\   junzow@osb.att.ne.jp</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132655Z" creationid="ALEX-K" creationdate="20221003T132655Z">
+        <seg>\   junzow@osb.att.ne.jp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\   liushusue65@gmail.com</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132641Z" creationid="ALEX-K" creationdate="20221003T132641Z">
+        <seg>\   liushusue65@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\   thisiswangxianhe@gmail.com</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132637Z" creationid="ALEX-K" creationdate="20221003T132637Z">
+        <seg>\   thisiswangxianhe@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\   wangtianxing@smail.nju.edu.cn</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T132651Z" creationid="ALEX-K" creationdate="20221003T132651Z">
+        <seg>\   wangtianxing@smail.nju.edu.cn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\294</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T134238Z" creationid="ALEX-K" creationdate="20221003T134238Z">
+        <seg>\294</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>]}.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T182912Z" creationid="ACER" creationdate="20221021T182912Z">
+        <seg>]}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>abilities will be converted into decision weight, and inves-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T195314Z" creationid="ACER" creationdate="20221021T195314Z">
+        <seg>будут конвертироваться в вес решения, и инвесторы-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>able &lt;t0/&gt;ξ&lt;t1/&gt; as:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T110344Z" creationid="ALEX-K" creationdate="20221005T110344Z">
+        <seg> &lt;t0/&gt;ξ&lt;t1/&gt; как:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>act out loss aversion while confronting the same degree of</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T194737Z" creationid="ACER" creationdate="20221021T194737Z">
+        <seg>разыгрывать неприятие потерь, пока противостоят одинаковой степени</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>as an indicator of return and the variance as an indicator of risk.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T085326Z" creationid="ALEX-K" creationdate="20221003T132019Z">
+        <seg>в качестве показателя доходности, а дисперсию — в качестве показателя риска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>belongs to state , and the counterparts &lt;t0/&gt;PN&lt;t1/&gt; , &lt;t2/&gt;BN&lt;t3/&gt; , &lt;t4/&gt;NN&lt;t5/&gt; represent the losses incurred for taking the same actions while the element does not belong to state .</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T124943Z" creationid="ACER" creationdate="20221022T123923Z">
+        <seg>принадлежит состоянию X, а соответствующие значения &lt;t0/&gt;PN&lt;t1/&gt; , &lt;t2/&gt;BN&lt;t3/&gt; , &lt;t4/&gt;NN&lt;t5/&gt; представляют собой потери, вызванные принятием тех же действий, в то время как элемент не принадлежит состоянию X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>by taking different actions in different states are listed in</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T123302Z" creationid="ACER" creationdate="20221022T122236Z">
+        <seg>выписаны в Таблице 1 по предпринимаемым действиям в разных состояниях, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>could lead to &lt;t0/&gt;k&lt;t1/&gt; outcomes, quantified by &lt;t2/&gt;x&lt;t3/&gt;1&lt;t4/&gt;,&lt;t5/&gt; &lt;t6/&gt;x&lt;t7/&gt;2&lt;t8/&gt;,&lt;t9/&gt; &lt;t10/&gt;…,&lt;t11/&gt; &lt;t12/&gt;x&lt;t13/&gt;k&lt;t14/&gt; .</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T191736Z" creationid="ACER" creationdate="20221021T191736Z">
+        <seg>может вести к &lt;t0/&gt;k&lt;t1/&gt;исходов, количественно определяемых через &lt;t2/&gt;x&lt;t3/&gt;1&lt;t4/&gt;,&lt;t5/&gt; &lt;t6/&gt;x&lt;t7/&gt;2&lt;t8/&gt;,&lt;t9/&gt; &lt;t10/&gt;…,&lt;t11/&gt; &lt;t12/&gt;x&lt;t13/&gt;k&lt;t14/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disjoint areas: positive (POS(  )), boundary (BND(  )) and</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T121542Z" creationid="ACER" creationdate="20221022T121542Z">
+        <seg>непересекающиеся области: положительную (POS(  )), граничную (BND(  )) и </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>expected value, i.e., maximize</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T192515Z" creationid="ACER" creationdate="20221021T192515Z">
+        <seg>ожидаемым значением, т.е. максимизируют</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>forecast uncertainty to a certain extent.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T074814Z" creationid="ALEX-K" creationdate="20221005T074755Z">
+        <seg> лучше застраховать от неопределенности прогнозирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gains and losses.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T194810Z" creationid="ACER" creationdate="20221021T194810Z">
+        <seg>прибыли и убытков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>high probability event.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T195714Z" creationid="ACER" creationdate="20221021T195714Z">
+        <seg>высоко вероятное событие.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ing losses of taking actions &lt;t0/&gt;a&lt;t1/&gt;P&lt;t2/&gt; &lt;t3/&gt;,&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt;B&lt;t7/&gt; &lt;t8/&gt;,&lt;t9/&gt; &lt;t10/&gt;a&lt;t11/&gt;N&lt;t12/&gt;  while the element</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T125031Z" creationid="ACER" creationdate="20221022T123008Z">
+        <seg>потери, соответствующие принятию действий &lt;t0/&gt;a&lt;t1/&gt;P&lt;t2/&gt; &lt;t3/&gt;,&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt;B&lt;t7/&gt; &lt;t8/&gt;,&lt;t9/&gt; &lt;t10/&gt;a&lt;t11/&gt;N&lt;t12/&gt; в то время, как элемент </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is &lt;t0/&gt;p&lt;t1/&gt;i&lt;t2/&gt; .</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T191853Z" creationid="ACER" creationdate="20221021T191853Z">
+        <seg>- &lt;t0/&gt;p&lt;t1/&gt;i&lt;t2/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is defined as [&lt;t0/&gt;38&lt;t1/&gt;]:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T111104Z" creationid="ALEX-K" creationdate="20221005T111104Z">
+        <seg>определяется как [&lt;t0/&gt;38&lt;t1/&gt;]:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>makers will always choose the option with the highest</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T192537Z" creationid="ACER" creationdate="20221021T192152Z">
+        <seg>принимающие решения, всегда выбирают вариант с наибольшим</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mality, subadditivity and normality.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T110826Z" creationid="ALEX-K" creationdate="20221005T110826Z">
+        <seg>субаддитивности и нормальности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>man proposed PT [&lt;t0/&gt;15&lt;t1/&gt;] and CPT [&lt;t2/&gt;33&lt;t3/&gt;].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T190013Z" creationid="ACER" creationdate="20221021T190013Z">
+        <seg>предложили PT [&lt;t0/&gt;15&lt;t1/&gt;] and CPT [&lt;t2/&gt;33&lt;t3/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>matrix</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092407Z" creationid="ALEX-K" creationdate="20221005T092407Z">
+        <seg>потерь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>measurement satisfies the axioms of monotonicity, maxi-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T110759Z" creationid="ALEX-K" creationdate="20221005T110759Z">
+        <seg>удовлетворяет аксиомам о монотонности, максимальности,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>negative (NEG(  )) areas respectively.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T121822Z" creationid="ACER" creationdate="20221022T121822Z">
+        <seg>отрицательную (NEG(  )) области соответственно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>options for decision-makers to choose from.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T190815Z" creationid="ACER" creationdate="20221021T190815Z">
+        <seg>вариантов для лиц, принимающих решение, из которых можно выбирать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>probability of outcome &lt;t0/&gt;x&lt;t1/&gt;i</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T191815Z" creationid="ACER" creationdate="20221021T191815Z">
+        <seg>исхода &lt;t0/&gt;x&lt;t1/&gt;i</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>related to the chosen of a reference point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T193802Z" creationid="ACER" creationdate="20221021T193802Z">
+        <seg>рассчитываются относительно исходной точки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sions investors made under uncertainty and risk conflict</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T184431Z" creationid="ACER" creationdate="20221021T184142Z">
+        <seg>те или иные решения в условиях неопределенности и конфликта рисков,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>theory, 3WD and CPT will be introduced.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092757Z" creationid="ALEX-K" creationdate="20221005T092757Z">
+        <seg>сведения из теории нечетких множеств, 3WD и CPT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tively.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T121108Z" creationid="ACER" creationdate="20221022T121108Z">
+        <seg>соответственно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tors will magnify the low probability event and minify the</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T195747Z" creationid="ACER" creationdate="20221021T195553Z">
+        <seg>будут преувеличивать низко вероятное событие и  преуменьшать</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tors’ perception toward gains and losses are not linear.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T193255Z" creationid="ACER" creationdate="20221021T193255Z">
+        <seg>инвесторов относительно прибыли и убытков не линейны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>trading.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T134322Z" creationid="ALEX-K" creationdate="20221003T134322Z">
+        <seg>торговли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which &lt;t0/&gt;a&lt;t1/&gt;P&lt;t2/&gt; &lt;t3/&gt;,&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt;B&lt;t7/&gt; &lt;t8/&gt;,&lt;t9/&gt; &lt;t10/&gt;a&lt;t11/&gt;N&lt;t12/&gt; indicate to classify the elements into three</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T121429Z" creationid="ACER" creationdate="20221022T121429Z">
+        <seg>в котором &lt;t0/&gt;a&lt;t1/&gt;P&lt;t2/&gt; &lt;t3/&gt;,&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt;B&lt;t7/&gt; &lt;t8/&gt;,&lt;t9/&gt; &lt;t10/&gt;a&lt;t11/&gt;N&lt;t12/&gt; указывают как классифицировать элементы в три</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which means an element is belong to state   or not respec-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T120857Z" creationid="ACER" creationdate="20221022T120857Z">
+        <seg>из этого следует, что элемент принадлежит состоянию X или нет,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with classical economic theories, Tversky and Kanhne-</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T190040Z" creationid="ACER" creationdate="20221021T185745Z">
+        <seg>с помощью классических экономических теорий, Тверски и Каннеман</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>x</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T182858Z" creationid="ACER" creationdate="20221021T182858Z">
+        <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>} = {&lt;t0/&gt;x</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T182845Z" creationid="ACER" creationdate="20221021T182845Z">
+        <seg>} = {&lt;t0/&gt;x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>}&lt;t0/&gt;, in</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T121301Z" creationid="ACER" creationdate="20221022T121301Z">
+        <seg>}&lt;t0/&gt;, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2021</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130325Z" creationid="ALEX-K" creationdate="20221003T130325Z">
+        <seg>© Автор(ы), по эксклюзивной лицензии Springer-Verlag GmbH Germany, часть Springer Nature 2021</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>∈&lt;t0/&gt; (0, 1)&lt;t1/&gt;, the notation of&lt;t2/&gt; &lt;t3/&gt;γ&lt;t4/&gt;-level cut set of fuzzy variable&lt;t5/&gt; &lt;t6/&gt;ξ</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T111051Z" creationid="ALEX-K" creationdate="20221005T111051Z">
+        <seg>∈&lt;t0/&gt; (0, 1)&lt;t1/&gt;, обозначение &lt;t2/&gt; &lt;t3/&gt;γ&lt;t4/&gt;-уровневого среза множества нечетких переменных&lt;t5/&gt; &lt;t6/&gt;ξ</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

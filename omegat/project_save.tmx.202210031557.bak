@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Besides, many studies are based on expected utility theory, which is  in conflict with the behavior of some investors and may also lead to over-concentration of capital.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T122625Z" creationid="ALEX-K" creationdate="20221003T122625Z">
+        <seg>Кроме того, многие исследования основаны на теории ожидаемой полезности, что противоречит поведению некоторых инвесторов, а также может приводить к чрезмерной концентрации капитала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Different from Markowitz’s model which is based on  Portfolio selection theory began with Markowitz’s seminal random variables, Chen [3] used fuzzy variables to denote  work [27], the core issue of which is to maximize the return the uncertainty of future return and risk and obtained the  or minimize the risk.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T125726Z" creationid="ALEX-K" creationdate="20221003T125726Z">
+        <seg>Different from Markowitz’s model which is based on  Теория выбора портфелей активов началась с Markowitz’s seminal random variables, Chen [3] used fuzzy variables to denote  work [27], the core issue of which is to maximize the return the uncertainty of future return and risk and obtained the  or minimize the risk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this model, every action in the action set to the candidate securities is assigned to  a prospect value and we can construct a tri-partition of the candidate securities according to three-way decision theory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T123239Z" creationid="ALEX-K" creationdate="20221003T123239Z">
+        <seg>В этой модели, каждому действию в наборе действий для ценных бумаг-кандидатов and we can construct a tri-partition of the candidate securities according to three-way decision theory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>International Journal of Machine Learning and Cybernetics (2022) 13:293–308  https://doi.org/10.1007/s13042-021-01402-9 ORIGINAL ARTICLE Fuzzy portfolio selection based on three‑way decision and cumulative  prospect theory Xianhe Wang1 · Bo Wang1  · Shu Liu2 · Huaxiong Li1 · Tianxing Wang1 · Junzo Watada3 Received: 3 February 2021 / Accepted: 27 July 2021 / Published online: 9 August 2021  © The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2021 Abstract The goal of fuzzy portfolio selection is to make a combination of securities which can maximize the return or minimize the  risk.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T125240Z" creationid="ALEX-K" creationdate="20221003T115143Z">
+        <seg>International Journal of Machine Learning and Cybernetics (2022) 13:293–308  https://doi.org/10.1007/s13042-021-01402-9 ОРИГИНАЛЬНАЯ СТАТЬЯ Нечеткий выбор портфелей активов, основанный на трёхстороннем решении и совокупной теории перспектив Xianhe Wang1 · Bo Wang1  · Shu Liu2 · Huaxiong Li1 · Tianxing Wang1 · Junzo Watada3 Получена: 3 February 2021 / Принята: 27 July 2021 / Опубликована онлайн: 9 August 2021  © Автор(ы), по эксклюзивной лицензии Springer-Verlag GmbH Germany, часть Springer Nature 2021 Аннотация Цель нечеткого выбора портфеля активов — создать сочетание ценных бумаг, которое может максимизировать прибыль или минимизировать риск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keywords Fuzzy portfolio selection · Three-way decision · Cumulative prospect theory · Expected utility theory 1 Introduction as an indicator of return and the variance as an indicator of  risk.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T125500Z" creationid="ALEX-K" creationdate="20221003T125145Z">
+        <seg>Ключевые слова Нечеткий выбор портфелей активов · Трёхстороннее решение · Совокупная теория перспектив · Теория ожидаемой полезности 1 Введение as an indicator of return and the variance as an indicator of  risk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of existing studies assumed that the investor has all the cash in hand and no securities position before portfolio  optimization, which is sometimes inconsistent to reality.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T122145Z" creationid="ALEX-K" creationdate="20221003T120900Z">
+        <seg>Большинство существующих исследований предполагают, что перед оптимизацией портфеля активов у инвестора на руках все его наличные, а позиция по ценным бумагам отсутствует, что подчас не соответствует действительности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The experimented  results prove that the using of three-way decision and cumulative prospect theory increases the investment return, meanwhile,  reduces the risk for the investor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T125121Z" creationid="ALEX-K" creationdate="20221003T125121Z">
+        <seg>Экспериментальные результаты подтвердили, что применение теории принятия трёхсторонних решений и совокупной теории перспектив повышает доходность инвестиций и, в то же время, снижает риск для инвестора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, in this paper, we  propose a fuzzy portfolio selection model based on three-way decision and cumulative prospect theory, which can mitigate  the two shortcomings mentioned above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T124229Z" creationid="ALEX-K" creationdate="20221003T123035Z">
+        <seg>Вследствие этого, в данном докладе, мы предлагаем модель нечеткого выбора портфеля активов, основанную на теории принятия трёхсторонних решений и совокупной теории перспектив, что может облегчить два вышеупомянутых недостатка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To  validate the effectiveness of our approach, we adopted two case studies on the basis of real market data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T124804Z" creationid="ALEX-K" creationdate="20221003T124804Z">
+        <seg>Для подтверждения эффективности нашего подхода, мы применили его к двум тематическим исследованиям на основе реальных рыночных данных.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">s13042-021-01402-9.pdf</prop>
+      <tuv lang="EN-US">
+        <seg>In this model, every action in the action set to the candidate securities is assigned to  a prospect value and we can construct a tri-partition of the candidate securities according to three-way decision theory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T124141Z" creationid="ALEX-K" creationdate="20221003T123847Z">
+        <seg>В этой модели, каждому действию в наборе действий для ценных бумаг-кандидатов присваивается потенциальная стоимость, что делает возможным построить тройное разделение ценных бумаг-кандидатов в соответствии с теорией принятия трёхсторонних решений.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
