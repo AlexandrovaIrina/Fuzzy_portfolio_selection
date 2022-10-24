@@ -92,3 +92,6 @@ Simultaneously	параллельно, одновременно
 action set	набор действий
 state	состояние
 respectively	соответственно
+sound explanation	разумное объяснение
+Suppose	предположим
+decision value	ценность решения

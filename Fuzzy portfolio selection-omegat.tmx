@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;p&lt;t1/&gt;−&lt;t2/&gt;m&lt;t3/&gt;, &lt;t4/&gt;p&lt;t5/&gt;−&lt;t6/&gt;m&lt;t7/&gt;+1&lt;t8/&gt; … &lt;t9/&gt;p&lt;t10/&gt;−1&lt;t11/&gt;, &lt;t12/&gt;p&lt;t13/&gt;1&lt;t14/&gt; … &lt;t15/&gt;p&lt;t16/&gt;n&lt;t17/&gt;−1&lt;t18/&gt;, &lt;t19/&gt;p&lt;t20/&gt;n&lt;t21/&gt;)&lt;t22/&gt;, then, the decision weight&lt;t23/&gt; &lt;t24/&gt;for each outcome is calculated by:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T183116Z" creationid="ACER" creationdate="20221023T183116Z">
+        <seg>(&lt;t0/&gt;p&lt;t1/&gt;−&lt;t2/&gt;m&lt;t3/&gt;, &lt;t4/&gt;p&lt;t5/&gt;−&lt;t6/&gt;m&lt;t7/&gt;+1&lt;t8/&gt; … &lt;t9/&gt;p&lt;t10/&gt;−1&lt;t11/&gt;, &lt;t12/&gt;p&lt;t13/&gt;1&lt;t14/&gt; … &lt;t15/&gt;p&lt;t16/&gt;n&lt;t17/&gt;−1&lt;t18/&gt;, &lt;t19/&gt;p&lt;t20/&gt;n&lt;t21/&gt;)&lt;t22/&gt;, тогда вес решения для каждого исхода вычисляется по формуле:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;x&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ACER" changedate="20221021T182840Z" creationid="ACER" creationdate="20221021T182840Z">
         <seg>(&lt;t0/&gt;x&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;x&lt;t1/&gt;−&lt;t2/&gt;m&lt;t3/&gt;, &lt;t4/&gt;x&lt;t5/&gt;−&lt;t6/&gt;m&lt;t7/&gt;+1&lt;t8/&gt; … &lt;t9/&gt;x&lt;t10/&gt;−1&lt;t11/&gt;, &lt;t12/&gt;x&lt;t13/&gt;1&lt;t14/&gt; … &lt;t15/&gt;x&lt;t16/&gt;n&lt;t17/&gt;−1&lt;t18/&gt;, &lt;t19/&gt;x&lt;t20/&gt;n&lt;t21/&gt;) &lt;t22/&gt;, where negative indices&lt;t23/&gt; &lt;t24/&gt;represent the loss, and positive indices represent the gain.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T182853Z" creationid="ACER" creationdate="20221023T182853Z">
+        <seg>(&lt;t0/&gt;x&lt;t1/&gt;−&lt;t2/&gt;m&lt;t3/&gt;, &lt;t4/&gt;x&lt;t5/&gt;−&lt;t6/&gt;m&lt;t7/&gt;+1&lt;t8/&gt; … &lt;t9/&gt;x&lt;t10/&gt;−1&lt;t11/&gt;, &lt;t12/&gt;x&lt;t13/&gt;1&lt;t14/&gt; … &lt;t15/&gt;x&lt;t16/&gt;n&lt;t17/&gt;−1&lt;t18/&gt;, &lt;t19/&gt;x&lt;t20/&gt;n&lt;t21/&gt;) &lt;t22/&gt;, где отрицательные индексы &lt;t23/&gt; &lt;t24/&gt;означают потери,  положительные индексы - прибыль.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.4  Three&lt;t0/&gt;‑&lt;t1/&gt;way decision based on cumulative prospect theory</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T184912Z" creationid="ACER" creationdate="20221023T184710Z">
+        <seg>2.4  Теория принятия трехсторонних решений, основанная на совокупной теория перспектив.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>295</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092207Z" creationid="ALEX-K" creationdate="20221005T092207Z">
@@ -126,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t20/&gt;1&lt;t21/&gt; and &lt;t22/&gt;2&lt;t23/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T181520Z" creationid="ACER" creationdate="20221023T181520Z">
+        <seg>&lt;t20/&gt;1&lt;t21/&gt; и &lt;t22/&gt;2&lt;t23/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t6/&gt;5&lt;t7/&gt;, two case studies based on real market data are performed to justify the effectiveness of the proposed methods.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T091955Z" creationid="ALEX-K" creationdate="20221005T091955Z">
@@ -142,10 +174,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>= 2.25&lt;t0/&gt;,&lt;t1/&gt; = 0.61&lt;t2/&gt;,&lt;t3/&gt; = 0.69&lt;t4/&gt;, and the value of&lt;t5/&gt; &lt;t6/&gt;θ&lt;t7/&gt; &lt;t8/&gt;indicates&lt;t9/&gt; &lt;t10/&gt;the degree of loss aversion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T180843Z" creationid="ACER" creationdate="20221023T180843Z">
+        <seg>= 2.25&lt;t0/&gt;,&lt;t1/&gt; = 0.61&lt;t2/&gt;,&lt;t3/&gt; = 0.69&lt;t4/&gt;, и значение &lt;t5/&gt; &lt;t6/&gt;θ&lt;t7/&gt; &lt;t8/&gt;указывает&lt;t9/&gt; &lt;t10/&gt;степень неприятия потерь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abstract</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130337Z" creationid="ALEX-K" creationdate="20221003T130337Z">
         <seg>Аннотация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>According to CPT, each outcome brings a decision value and shows the impact in the decision process.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T194142Z" creationid="ACER" creationdate="20221023T190805Z">
+        <seg>Согласно CPT, каждый исход приносит ценность решения и показывает свое влияние на процесс принятия решения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>According to the Bayesian decision rules, the principles of</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T175100Z" creationid="ACER" creationdate="20221023T175100Z">
+        <seg>В соответствии с Байесовскими правилами принятия решений, принципы</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides &lt;t11/&gt;x&lt;t12/&gt;0&lt;t13/&gt; is the value of the reference point, while &lt;t14/&gt;p&lt;t15/&gt;g&lt;t16/&gt; and &lt;t17/&gt;p&lt;t18/&gt;l&lt;t19/&gt; are the probability of gains and losses.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T181227Z" creationid="ACER" creationdate="20221023T181227Z">
+        <seg>Кроме того, &lt;t11/&gt;x&lt;t12/&gt;0&lt;t13/&gt; - это исходная точка, в то время как &lt;t14/&gt;p&lt;t15/&gt;g&lt;t16/&gt; и &lt;t17/&gt;p&lt;t18/&gt;l&lt;t19/&gt; - это вероятности прибыли и убытков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Besides, introducing 3WD into portfolio selection can also be expected to hedge against the uncertainties of securi-ties future returns.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T143853Z" creationid="ALEX-K" creationdate="20221003T143853Z">
@@ -254,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides, the elements of the state set and the action set in CPT-3WD share the same definitions with the corresponding elements in 3WD.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T185401Z" creationid="ACER" creationdate="20221023T185401Z">
+        <seg>Кроме того, элементы набора состояний и элементы набора действий в CPT-3WD используют одни и те же значения с соответствующими элементами в 3WD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By contrast, the using of 3WD, especially the consider-ation of the boundary operation can better hedge against the</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T074810Z" creationid="ALEX-K" creationdate="20221003T145322Z">
@@ -266,6 +338,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T082051Z" creationid="ALEX-K" creationdate="20221005T082051Z">
         <seg>CPT обобщает феномены неприятия потерь и уменьшающейся чувствительности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Considering the widespread application and success of CPT in decision making, Wang [&lt;t0/&gt;37&lt;t1/&gt;] combined CPT with 3WD theory to construct a CPT-3WD model.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T184920Z" creationid="ACER" creationdate="20221023T184856Z">
+        <seg>Учитывая широкое распространение приложений и успех CPT в принятии решений, Ван [&lt;t0/&gt;37&lt;t1/&gt;] объединил CPT с теорией 3WD, чтобы получить модель CPT-3WD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +382,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 1  &lt;t0/&gt;An example of the value function</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T183402Z" creationid="ACER" creationdate="20221023T183402Z">
+        <seg>Рис. 1  &lt;t0/&gt;Пример функции ценности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 2  &lt;t0/&gt;An example of the weight function</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T183216Z" creationid="ACER" creationdate="20221023T183216Z">
+        <seg>Рис. 2  &lt;t0/&gt;Пример весовой функции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, Sect.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T092033Z" creationid="ALEX-K" creationdate="20221005T092009Z">
@@ -314,6 +410,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T091344Z" creationid="ALEX-K" creationdate="20221005T084631Z">
         <seg>Наконец, в соответствии с результатами классификации, оптимальное решение об инвестировании можно получить, решив данную модель выбора портфелей активов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, the prospect value of option &lt;t0/&gt;X&lt;t1/&gt; is expressed as:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T183333Z" creationid="ACER" creationdate="20221023T183333Z">
+        <seg>Наконец, перспективная ценность варианта &lt;t0/&gt;X&lt;t1/&gt; вычисляется по формуле:</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +442,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T075403Z" creationid="ALEX-K" creationdate="20221005T075403Z">
         <seg>В течение длительного времени EUT доказала свою эффективность при выборе портфелей активов [&lt;t0/&gt;2&lt;t1/&gt;, &lt;t2/&gt;6&lt;t3/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For an object &lt;t0/&gt;o&lt;t1/&gt;, &lt;t2/&gt;p&lt;t3/&gt;( [&lt;t4/&gt;o&lt;t5/&gt;])&lt;t6/&gt; and &lt;t7/&gt;p&lt;t8/&gt;(&lt;t9/&gt; &lt;t10/&gt;C&lt;t11/&gt; &lt;t12/&gt;[&lt;t13/&gt;o&lt;t14/&gt;])&lt;t15/&gt; denote the prob-abilities of &lt;t16/&gt;o&lt;t17/&gt; belongs to state or not, respectively.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T174551Z" creationid="ACER" creationdate="20221023T174551Z">
+        <seg>Для объекта &lt;t0/&gt;o&lt;t1/&gt;, &lt;t2/&gt;p&lt;t3/&gt;( [&lt;t4/&gt;o&lt;t5/&gt;])&lt;t6/&gt; и &lt;t7/&gt;p&lt;t8/&gt;(&lt;t9/&gt; &lt;t10/&gt;C&lt;t11/&gt; &lt;t12/&gt;[&lt;t13/&gt;o&lt;t14/&gt;])&lt;t15/&gt; обозначают вероятности &lt;t16/&gt;o&lt;t17/&gt;, принадлежащего или не принадлежащего состоянию X, соответственно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +514,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T081535Z" creationid="ALEX-K" creationdate="20221005T081535Z">
         <seg>В CPT предполагается, что перспективная ценность сценария количественно определяется с помощью весовой функции вероятности и функции ценности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In CPT, outcomes are utilized to assess the final state of investors’ wealthy.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T194308Z" creationid="ACER" creationdate="20221023T185448Z">
+        <seg>В CPT, исходы используются, чтобы оценивать итоговое денежное состояние инвестора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In CPT, the preference of an option is evaluated by the corresponding prospect value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T182339Z" creationid="ACER" creationdate="20221023T182339Z">
+        <seg>В CPT предпочтение того или иного варианта оценивается перспективной ценностью соответствующего значения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is supposed&lt;t16/&gt; &lt;t17/&gt;that the following conditions can be met in the real world [&lt;t18/&gt;37&lt;t19/&gt;]:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T190427Z" creationid="ACER" creationdate="20221023T190427Z">
+        <seg>Предполагается, что следующие состояния могут произойти в реальном мире [&lt;t18/&gt;37&lt;t19/&gt;]:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keywords&lt;t0/&gt;  Fuzzy portfolio selection · Three-way decision · Cumulative prospect theory · Expected utility theory</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T130809Z" creationid="ALEX-K" creationdate="20221003T130809Z">
@@ -574,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outcomes represent the wealthy change of the decision- maker which resulted from taking aforementioned actions to elements in corre-sponding states, and Table &lt;t0/&gt;2&lt;t1/&gt; is the matrix of the outcome</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T194347Z" creationid="ACER" creationdate="20221023T185959Z">
+        <seg>Исходы отражают изменение денежного состояния лица, принимающего решения, которые возникли в результате вышеупомянутых мер в соответствующих состояниях, и Таблица &lt;t0/&gt;2&lt;t1/&gt; - это матрица исходов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over reliance on the forecast results may lead to excessive risk concentration.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T145018Z" creationid="ALEX-K" creationdate="20221003T145018Z">
@@ -586,6 +730,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T085316Z" creationid="ALEX-K" creationdate="20221003T131239Z">
         <seg>Теория выбора портфелей активов началась с основополагающей работы Марковица [&lt;t0/&gt;27&lt;t1/&gt;], основным вопросом которой была максимизация доходности или минимизация риска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prototypical examples of these two functions given by Tversky and Kahneman are provided in Formulas (&lt;t0/&gt;5&lt;t1/&gt;) and (&lt;t2/&gt;6&lt;t3/&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T180641Z" creationid="ACER" creationdate="20221023T180504Z">
+        <seg>Прототипные примеры этих двух функций, выведенных Тверски и Каннеманом, определены Формулами (&lt;t0/&gt;5&lt;t1/&gt;) и (&lt;t2/&gt;6&lt;t3/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suppose that the probability vector of the outcomes is</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T183022Z" creationid="ACER" creationdate="20221023T183022Z">
+        <seg>Предположим, что вектор вероятности исхода - </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suppose the state set is given by &lt;t2/&gt;U&lt;t3/&gt; &lt;t4/&gt;= {&lt;t5/&gt;  &lt;t6/&gt;,&lt;t7/&gt;    &lt;t8/&gt;C&lt;t9/&gt;}&lt;t10/&gt;,</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ACER" changedate="20221022T120450Z" creationid="ACER" creationdate="20221022T120450Z">
@@ -710,10 +870,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 2  &lt;t0/&gt;The outcome matrix</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T190256Z" creationid="ACER" creationdate="20221023T190256Z">
+        <seg>Таблица 2  &lt;t0/&gt;Матрица исходов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ACER" changedate="20221021T191800Z" creationid="ACER" creationdate="20221021T191800Z">
         <seg>Вероятность </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The above formed two of the most important numerical principles in CPT: the value function and the probability weight function.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T195119Z" creationid="ACER" creationdate="20221023T180344Z">
+        <seg>Вышесказанное сформировало два наиболее важных математических аппарата в CPT: функция ценности и весовая функция вероятности.</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,10 +902,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The combination of the weight function and the value function makes a sound explanation of why decision-makers always act out risk-seeking while facing high-probability losses and low-probability gains, and risk-avoiding while facing high-probability gains and low-probability losses.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T182118Z" creationid="ACER" creationdate="20221023T182118Z">
+        <seg>Комбинация функции ценности и весовая функция вероятности дает разумное объяснение, почему лица, принимающие решение, всегда стараются рискнуть, сталкиваясь с высоко вероятными потерями и низко вероятной прибылью, и стараются не рисковать, встречаясь с высоко вероятной прибылью и низко вероятными убытками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The credibility measurement is a self-dual function, i.e.,</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T110546Z" creationid="ALEX-K" creationdate="20221005T110546Z">
         <seg>Мера достоверности — самодвойственная функция, т.е.,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The decision value is influenced by the selection of the reference point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T193757Z" creationid="ACER" creationdate="20221023T191009Z">
+        <seg>Эта ценность решения зависит от выбора точки отсчета.</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The graphical representations of the value func-tion and the probability weight function are shown in Figs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T181515Z" creationid="ACER" creationdate="20221023T181515Z">
+        <seg>Графические представления функции ценности и весовой функции вероятности показаны на Рис.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The loss functions</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ACER" changedate="20221022T123025Z" creationid="ACER" creationdate="20221022T121900Z">
@@ -786,6 +986,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221005T085653Z" creationid="ALEX-K" creationdate="20221005T085237Z">
         <seg>Основной вклад данного доклада включает следующее: (1) 3WD рассматривается как способ справляться с неточными результатами прогнозирования доходности инвестиций и проблемами долгосрочных инвестиций с ценными бумагами на руках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The model still consists of a state set &lt;t2/&gt;U&lt;t3/&gt; &lt;t4/&gt;= {&lt;t5/&gt; &lt;t6/&gt;,&lt;t7/&gt; &lt;t8/&gt;C&lt;t9/&gt;}&lt;t10/&gt; and an action set &lt;t11/&gt;A&lt;t12/&gt; &lt;t13/&gt;= {&lt;t14/&gt;a&lt;t15/&gt; &lt;t16/&gt;,&lt;t17/&gt; &lt;t18/&gt;a&lt;t19/&gt; &lt;t20/&gt;,&lt;t21/&gt; &lt;t22/&gt;a&lt;t23/&gt; &lt;t24/&gt;}&lt;t25/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T185052Z" creationid="ACER" creationdate="20221023T185052Z">
+        <seg>Эта модель по-прежнему состоит из набора состояний &lt;t2/&gt;U&lt;t3/&gt; &lt;t4/&gt;= {&lt;t5/&gt; &lt;t6/&gt;,&lt;t7/&gt; &lt;t8/&gt;C&lt;t9/&gt;}&lt;t10/&gt; и набора действий &lt;t11/&gt;A&lt;t12/&gt; &lt;t13/&gt;= {&lt;t14/&gt;a&lt;t15/&gt; &lt;t16/&gt;,&lt;t17/&gt; &lt;t18/&gt;a&lt;t19/&gt; &lt;t20/&gt;,&lt;t21/&gt; &lt;t22/&gt;a&lt;t23/&gt; &lt;t24/&gt;}&lt;t25/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +1034,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T144835Z" creationid="ALEX-K" creationdate="20221003T144835Z">
         <seg>Неизбежным фактом является то, что эти прогнозы не всегда могут быть корректными и точными [&lt;t10/&gt;11&lt;t11/&gt; ].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then for object &lt;t18/&gt;o&lt;t19/&gt;, the expected losses of taking different actions are calculated by:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T174810Z" creationid="ACER" creationdate="20221023T174810Z">
+        <seg>Затем, для объекта &lt;t18/&gt;o&lt;t19/&gt; ожидаемые потери от предпринятия различных действий рассчитываются по формуле:</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,6 +1090,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="ALEX-K" changedate="20221003T133609Z" creationid="ALEX-K" creationdate="20221003T133609Z">
         <seg>Это предположение подчас противоречит действительности, что в определенной степени препятствует практическому применению моделей выбора портфелей активов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To calculate the prospect value of option &lt;t0/&gt;X&lt;t1/&gt; , the decision-maker firstly sorts all possible outcomes of option &lt;t2/&gt;X&lt;t3/&gt; in an ascend-ing order: from the greatest loss to the greatest gain, as</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T194406Z" creationid="ACER" creationdate="20221023T182703Z">
+        <seg>Чтобы вычислить перспективную ценность варианта &lt;t0/&gt;X&lt;t1/&gt; , лицо, принимающее решение, сначала отсортирует все возможные исходы у варианта &lt;t2/&gt;X&lt;t3/&gt; по возрастанию: от самой большой потери до самой большой прибыли, как </seg>
       </tuv>
     </tu>
     <tu>
@@ -1158,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ij&lt;t0/&gt; (&lt;t1/&gt;i&lt;t2/&gt; = &lt;t3/&gt;P&lt;t4/&gt;, &lt;t5/&gt;B&lt;t6/&gt;, &lt;t7/&gt;N&lt;t8/&gt;, and &lt;t9/&gt;j&lt;t10/&gt; = &lt;t11/&gt;P&lt;t12/&gt;, &lt;t13/&gt;N&lt;t14/&gt;) &lt;t15/&gt;in different states.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T190315Z" creationid="ACER" creationdate="20221023T190315Z">
+        <seg>ij&lt;t0/&gt; (&lt;t1/&gt;i&lt;t2/&gt; = &lt;t3/&gt;P&lt;t4/&gt;, &lt;t5/&gt;B&lt;t6/&gt;, &lt;t7/&gt;N&lt;t8/&gt;, and &lt;t9/&gt;j&lt;t10/&gt; = &lt;t11/&gt;P&lt;t12/&gt;, &lt;t13/&gt;N&lt;t14/&gt;) &lt;t15/&gt;в разных состояниях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ing losses of taking actions &lt;t0/&gt;a&lt;t1/&gt;P&lt;t2/&gt; &lt;t3/&gt;,&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt;B&lt;t7/&gt; &lt;t8/&gt;,&lt;t9/&gt; &lt;t10/&gt;a&lt;t11/&gt;N&lt;t12/&gt;  while the element</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ACER" changedate="20221022T125031Z" creationid="ACER" creationdate="20221022T123008Z">
@@ -1222,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>minimum-loss can be summarized as:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T175438Z" creationid="ACER" creationdate="20221023T175438Z">
+        <seg>минимальных потерь могут быть вычислены следующим образом:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>negative (NEG(  )) areas respectively.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ACER" changedate="20221022T121822Z" creationid="ACER" creationdate="20221022T121822Z">
@@ -1232,8 +1472,8 @@
       <tuv lang="EN-US">
         <seg>options for decision-makers to choose from.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="ACER" changedate="20221021T190815Z" creationid="ACER" creationdate="20221021T190815Z">
-        <seg>вариантов для лиц, принимающих решение, из которых можно выбирать.</seg>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T175722Z" creationid="ACER" creationdate="20221021T190815Z">
+        <seg>вариантов, из которых можно выбирать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>where it is normally suggested that</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221023T180718Z" creationid="ACER" creationdate="20221023T180718Z">
+        <seg>где обычно предполагается, что </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>which &lt;t0/&gt;a&lt;t1/&gt;P&lt;t2/&gt; &lt;t3/&gt;,&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt;B&lt;t7/&gt; &lt;t8/&gt;,&lt;t9/&gt; &lt;t10/&gt;a&lt;t11/&gt;N&lt;t12/&gt; indicate to classify the elements into three</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="ACER" changedate="20221022T121429Z" creationid="ACER" creationdate="20221022T121429Z">
@@ -1312,8 +1560,8 @@
       <tuv lang="EN-US">
         <seg>which means an element is belong to state   or not respec-</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T120857Z" creationid="ACER" creationdate="20221022T120857Z">
-        <seg>из этого следует, что элемент принадлежит состоянию X или нет,</seg>
+      <tuv lang="RU-RU" changeid="ACER" changedate="20221022T125451Z" creationid="ACER" creationdate="20221022T120857Z">
+        <seg>из этого следует, принадлежит элемент состоянию X или нет,</seg>
       </tuv>
     </tu>
     <tu>
